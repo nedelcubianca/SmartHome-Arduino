@@ -33,7 +33,7 @@ Acest proiect prezintă o casă inteligentă la scară redusă, bazată pe plac�
 - LCD 16x2 cu I2C
 - Baterie 9V
 
-## 👨‍💻 Contribuții
+##  Contribuții
 
 - **Budur Armand-Cristian** – cod pentru buzzer, LED, fotorezistor, LCD; depanare și design documentație.
 - **Dincă Marta** – macheta casei, montaj componente fizice, documentație.
